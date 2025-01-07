@@ -7,7 +7,7 @@ module Console
     "\tlist <todo|in-progress|done> - Displays a list of all tasks.
     If no argument with status is passwd, then displays all tasks.",
     "\tadd <description> - Adds a new task with <description>.
-    Save new task in tasks directory with name task_<id>.json.",
+    Saves new task in tasks directory with name task_<id>.json.",
     "\tupdate <id> <description> - Updates the task description
     with <id> and saves to a json file.",
     "\tmark-<in-progress|done> - Updates task status and saves to a json file.",
