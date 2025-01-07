@@ -1,4 +1,4 @@
-# roadmapsh-task-tracker-cli
+# Task Tracker CLI
 
 Task tracker is a project used to track and manage your tasks.
 In this task, you will build a simple command line interface (CLI)
